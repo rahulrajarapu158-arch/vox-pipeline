@@ -1,0 +1,1 @@
+crop=1280:720:x='28*sin(t*0.35)':y='15*sin(t*0.27)',eq=contrast=1.06:brightness=-0.01:saturation=0.92,noise=alls=5:allf=t,vignette=PI/5,format=yuv420p

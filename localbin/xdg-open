@@ -1,0 +1,3 @@
+#!/bin/bash
+# no-op: prevent manim from trying to launch a viewer
+exit 0
