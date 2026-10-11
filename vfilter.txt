@@ -1,1 +1,0 @@
-zoompan=z='min(1.08+0.0005*n,1.18)':d=240:x='iw/2-(iw/zoom)/2+35*sin(n/45)':y='ih/2-(ih/zoom)/2+18*sin(n/62)':s=1280x720:fps=24,eq=contrast=1.06:brightness=-0.01:saturation=0.92,noise=alls=5:allf=t,vignette=PI/5,format=yuv420p

@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Media (don't commit generated test media)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.mp3
+*.aac
+*.wav
+
+# Checkpoint images
+chk_*.png
+ref_*.png
+test_*.png
+dbg_*.png
+layer_*.png
+mo*.png
+tf*.png
+
+# Temp scripts
+step*.mp4
+t[0-9].mp4
+tc*.mp4
+silent_*.mp4
+test_final*.mp4
+test_manim*.mp4
+test_svd*.mp4
+svd_*.mp4
+manim_*.mp4
